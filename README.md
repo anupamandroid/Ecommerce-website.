@@ -5,4 +5,4 @@ Project Description: - To implement a one-page responsive e-ecommerce website wh
 
 Technology Used: - Spring-MVC, Spring Security Architecture, MyBatis, JSP, Java Mail, Log4j, Apache Tomcat, JavaScript and Bootstrap.
 
-# Under Implemention.
+Under Implemention.
